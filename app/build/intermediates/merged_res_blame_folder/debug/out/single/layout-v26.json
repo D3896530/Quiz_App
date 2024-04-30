@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.quizapptrivia.app-mergeDebugResources-30:/layout-v26/activity_main.xml",
+        "source": "com.example.quizapptrivia.app-main-33:/layout-v26/activity_main.xml"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-mergeDebugResources-30:/layout-v26/activity_resulty_activty.xml",
+        "source": "com.example.quizapptrivia.app-main-33:/layout-v26/activity_resulty_activty.xml"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-mergeDebugResources-30:/layout-v26/activity_difficulty.xml",
+        "source": "com.example.quizapptrivia.app-main-33:/layout-v26/activity_difficulty.xml"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.quizapptrivia.app-debug-32:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.quizapptrivia.app-debug-32:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/drawable_correct_option_border_bg.xml.flat",
+        "source": "com.example.quizapptrivia.app-main-33:/drawable/correct_option_border_bg.xml"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/layout-v28_activity_quiz.xml.flat",
+        "source": "com.example.quizapptrivia.app-main-33:/layout-v28/activity_quiz.xml"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.quizapptrivia.app-debug-32:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.quizapptrivia.app-debug-32:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/drawable_bg_welcome.png.flat",
+        "source": "com.example.quizapptrivia.app-main-33:/drawable/bg_welcome.png"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.quizapptrivia.app-debug-32:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.quizapptrivia.app-debug-32:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/drawable_ic_baseline_arrow_circle_left_24.xml.flat",
+        "source": "com.example.quizapptrivia.app-main-33:/drawable/ic_baseline_arrow_circle_left_24.xml"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.quizapptrivia.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.quizapptrivia.app-debug-32:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.quizapptrivia.app-debug-32:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.quizapptrivia.app-debug-32:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.quizapptrivia.app-debug-32:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.quizapptrivia.app-pngs-26:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/drawable_ic_baseline_error_24.xml.flat",
+        "source": "com.example.quizapptrivia.app-main-33:/drawable/ic_baseline_error_24.xml"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.quizapptrivia.app-debug-32:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/layout-v26_activity_difficulty.xml.flat",
+        "source": "com.example.quizapptrivia.app-main-33:/layout-v26/activity_difficulty.xml"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/layout_categorylistview.xml.flat",
+        "source": "com.example.quizapptrivia.app-main-33:/layout/categorylistview.xml"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.quizapptrivia.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.quizapptrivia.app-debug-32:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/drawable_selected_option_border_bg.xml.flat",
+        "source": "com.example.quizapptrivia.app-main-33:/drawable/selected_option_border_bg.xml"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/drawable_wrong_option_border_bg.xml.flat",
+        "source": "com.example.quizapptrivia.app-main-33:/drawable/wrong_option_border_bg.xml"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.quizapptrivia.app-debug-32:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.quizapptrivia.app-debug-32:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/drawable_ic_baseline_arrow_circle_right_24.xml.flat",
+        "source": "com.example.quizapptrivia.app-main-33:/drawable/ic_baseline_arrow_circle_right_24.xml"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.quizapptrivia.app-debug-32:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.quizapptrivia.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/drawable-v24_ic_baseline_rectangle_24.xml.flat",
+        "source": "com.example.quizapptrivia.app-main-33:/drawable-v24/ic_baseline_rectangle_24.xml"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.quizapptrivia.app-debug-32:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/layout-v26_activity_main.xml.flat",
+        "source": "com.example.quizapptrivia.app-main-33:/layout-v26/activity_main.xml"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.quizapptrivia.app-debug-32:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/drawable_button.xml.flat",
+        "source": "com.example.quizapptrivia.app-main-33:/drawable/button.xml"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/drawable_prevoius_next_button_backgound.xml.flat",
+        "source": "com.example.quizapptrivia.app-main-33:/drawable/prevoius_next_button_backgound.xml"
+    },
+    {
+        "merged": "com.example.quizapptrivia.app-merged_res-31:/layout-v26_activity_resulty_activty.xml.flat",
+        "source": "com.example.quizapptrivia.app-main-33:/layout-v26/activity_resulty_activty.xml"
+    }
+]
